@@ -5,7 +5,7 @@
   "dependencies": {
     "@blueprintjs/core": "^3.8.0",
     "@blueprintjs/datetime": "^3.3.1",
-    "@blueprintjs/select": "^3.7.0",
+    "@blueprintjs/select": "^3.18.3",
     "@blueprintjs/timezone": "^3.3.0",
     "@mapbox/mapbox-gl-draw": "^1.1.1",
     "@mapbox/mapbox-gl-geocoder": "^3.1.0",
