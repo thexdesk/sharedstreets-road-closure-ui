@@ -11545,10 +11545,10 @@ yarn-global@^1.1.0:
   dependencies:
     user-home "^2.0.0"
 
-yarn@^1.10.1:
-  version "1.17.3"
-  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.17.3.tgz#60e0b77d079eb78e753bb616f7592b51b6a9adce"
-  integrity sha512-CgA8o7nRZaQvmeF/WBx2FC7f9W/0X59T2IaLYqgMo6637wfp5mMEsM3YXoJtKUspnpmDJKl/gGFhnqS+sON7hA==
+yarn@^1.22.13:
+  version "1.22.21"
+  resolved "https://registry.yarnpkg.com/yarn/-/yarn-1.22.21.tgz#1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
+  integrity sha512-ynXaJsADJ9JiZ84zU25XkPGOvVMmZ5b7tmTSpKURYwgELdjucAOydqIOrOfTxVYcNXe91xvLZwcRh68SR3liCg==
 
 yn@^3.0.0:
   version "3.1.1"
